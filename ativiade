@@ -1,0 +1,6 @@
+import math
+
+# calculando a raiz quadrada de 144
+raiz_quadrada = math.sqrt(144)
+
+print("a raiz quadrada de 25 é:", raiz_quadrada)
